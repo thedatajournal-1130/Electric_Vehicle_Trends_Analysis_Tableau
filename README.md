@@ -66,3 +66,6 @@ CAFV Eligibility
 ◆ A few manufacturers account for a significant share of EV registrations
 
 # ▬ Electric Vehicle Trends Analysis Dashboard
+
+<img width="1606" height="899" alt="EV_Trends_Analysis" src="https://github.com/user-attachments/assets/a37cf991-0995-4933-94c4-c15311159384" />
+
